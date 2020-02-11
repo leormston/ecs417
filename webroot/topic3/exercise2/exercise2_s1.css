@@ -1,0 +1,17 @@
+@import "exercise2_s2.css";
+
+/*question 1.3*/
+#title, .subheadings {
+  background-color: lightgrey;
+}
+
+
+/*question 1.4*/
+a:hover {
+  background-color: silver;
+}
+
+/*question 1.5*/
+ul a {
+  color: orange;
+}
