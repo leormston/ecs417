@@ -1,0 +1,53 @@
+/*General Styling*/
+html
+{
+  font-family: arial;
+}
+
+
+/*table formatting*/
+table
+{
+    background-color: #d4ffab;
+    border: darkgreen solid 2px;
+}
+
+caption
+{
+  background-color: darkgreen;
+  margin-left: 3%;
+  margin-right: 3%;
+  color:white;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.tshirtspec, .addressspec
+{
+  border: darkgreen solid 2px;
+  width: 100%;
+
+}
+
+.footer
+{
+  background-color: white;
+  text-align: center;
+}
+.tshirtspec
+{
+  padding: 3px;
+}
+
+td
+{
+  padding: 3pt;
+}
+/*table formatting*/
+
+/*footer styling*/
+.footer
+{
+  background-color: white;
+}
+/*footer styling*/
