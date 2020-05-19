@@ -1,0 +1,145 @@
+#TopContainerImage
+{
+  border: 1px solid #383838;
+}
+
+
+.displayCard
+{
+  background-color: #383838;
+  text-align: center;
+  border: solid #383838 10px;
+  border-radius: 5px;
+  color: #e3e3e3;
+  align-self: center;
+  margin: 3px;
+}
+
+.displayCard-Light
+{
+  background-color: white;
+  color: #383838;
+  border: 1px solid #383838;
+  padding: 10px;
+}
+
+.blogCardStyle
+{
+  margin: 3px;
+  height:300;
+}
+
+#blogButton
+{
+  padding-bottom: 20px;
+}
+
+.JustifyLeft
+{
+  text-align: left;
+  padding-top: 10px
+}
+.hr
+{
+  height: 1px;
+  color: red;
+  background-color: red;
+  border: none;
+}
+
+main
+{
+  align-items: center;
+  text-align: center;
+}
+
+body
+{
+  background-color: white;
+
+}
+
+footer
+{
+  background-color: #383838;
+  text-align: center;
+  color: #e3e3e3;
+  margin-top: 400px;
+  padding-top: 20px
+}
+
+footer a:link
+{
+  text-align: center;
+  color: #e3e3e3;
+}
+
+footer a:visited
+{
+  text-align: center;
+  color: #e3e3e3;
+}
+
+footer a:active
+{
+  text-align: center;
+  color: #e3e3e3;
+}
+
+.portfolioCard
+{
+  background-color: #383838;
+  text-align: center;
+  border: solid #383838 10px;
+  border-radius: 5px;
+  color: #e3e3e3;
+  align-self: center;
+  margin: 3px;
+}
+
+.informationCard
+{
+  background-color: white;
+  color: #383838;
+  border: 1px solid #383838;
+  padding: 10px;
+  margin: 10px;
+    border-radius: 5px;
+}
+
+#PageTitle
+{
+  text-align: center;
+}
+
+.blogCard
+{
+  background-color: white;
+  color: #383838;
+  border: 3px solid #e3e3e3;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  align-self: center;
+}
+
+.formCard
+{
+  background-color: white;
+  color: #383838;
+  border: 3px solid #e3e3e3;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  align-self: center;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.date
+{
+  color: lightgrey;
+}
